@@ -1,0 +1,5 @@
+This Project Actually make Html5,css3 and javascript Combination also use bootstrap 5.2 css framework.using This Project Main Concept Show The Real Time Clock which Clock Show The Real Time History.Every second later time auto update and per second changes value show.using javascript onload events this events Actually windows object events. 
+=>HTML5
+=>CSS3
+=>BOOTSTRAP5.2
+=>JAVASCRIPT

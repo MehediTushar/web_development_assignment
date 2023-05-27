@@ -1,0 +1,33 @@
+#clock_times
+{
+    font-family: system-ui;
+  background: #e8ecf5;
+  color: rgba(250, 14, 14, 0.842);
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+body
+{
+    background-color: rgb(213, 232, 245);
+}
+h2
+{
+    text-align: center;
+    color: rgb(28, 195, 218);
+}
+p
+{
+    background: #f8f8f8;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(38, 39, 38);
+    border-style: solid;
+    border-color: rgb(190, 240, 247);
+}
+p :hover{
+    color: rgb(10, 124, 39);
+}
